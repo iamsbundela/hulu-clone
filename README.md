@@ -1,3 +1,12 @@
+## Introduction
+
+This is a clone of the Streaming website HULU made up with React. This clone uses the data from TMDB Api.
+
+## Preview
+
+https://github.com/iamsbundela/hulu-clone.git
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
