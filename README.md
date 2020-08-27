@@ -4,7 +4,7 @@ This is a clone of the Streaming website HULU made up with React. This clone use
 
 ## Preview
 
-https://github.com/iamsbundela/hulu-clone.git
+https://hulu-clone-5714c.web.app/
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
